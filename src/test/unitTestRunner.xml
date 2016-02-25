@@ -1,0 +1,7 @@
+<suite  name="unit test suite" parallel="tests" thread-count="5">
+    <test name="DataConvertorTests">
+        <classes>
+            <class name="unit.tests.DateConvertorTests"/>
+        </classes>
+    </test>
+</suite>

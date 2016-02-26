@@ -2,6 +2,7 @@
     <test name="DataConvertorTests">
         <classes>
             <class name="unit.tests.DateConvertorTests"/>
+            <class name="unit.tests.SumOfCharactersTest"/>
         </classes>
     </test>
 </suite>

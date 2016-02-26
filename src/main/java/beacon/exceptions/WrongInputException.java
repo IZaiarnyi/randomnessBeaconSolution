@@ -1,4 +1,4 @@
-package beacon.exception;
+package beacon.exceptions;
 
 /**
  * Created by Yupa on 25.02.2016.
